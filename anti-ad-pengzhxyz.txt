@@ -1,0 +1,5 @@
+!Title: anti-AD-pengzhxyz
+!Version: 20210314200001
+!Homepage: https://github.com/pengzhxyz/anti-AD
+!Total lines: 1
+||ad.hpplay.cn^
